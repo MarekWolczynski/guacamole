@@ -9,6 +9,13 @@ Follow the instructions below:
 - onions
 - salt & pepper
 
+##Instuctions
+
+- chop the avocade
+- break the egg
+- chop onions and tomatoes
+
+
 Put into a bowl and mix gently.
 
 An example repository for introductory **Git** training
