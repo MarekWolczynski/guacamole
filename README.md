@@ -1,6 +1,8 @@
 # A recipe for Guacamole
 
 - avocado
+- egg
+- sweet chilli
 - onions
 - salt & pepper
 
