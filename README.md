@@ -14,6 +14,7 @@ Follow the instructions below:
 - chop the avocade
 - break the egg
 - chop onions and tomatoes
+- season with salt and pepper
 
 
 Put into a bowl and mix gently.
