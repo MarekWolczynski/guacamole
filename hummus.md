@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A very first recipe for hummus
 
 Also a very nice recipe!
 This is a good idea!
