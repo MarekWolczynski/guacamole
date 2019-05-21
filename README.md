@@ -1,7 +1,7 @@
 # A recipe for Guacamole
 An example repository for introductory **Git** training
 
-
+<!-- HTML comment -->
 -you can add bullets
   - and sub-bullets
 - [and links](http://bio-it.embl.de)
