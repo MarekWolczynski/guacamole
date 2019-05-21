@@ -1,4 +1,7 @@
-# A recipe for Guacamole
+# A Recipe for Guacamole
+
+Make sure to enjoy!
+Follow the instructions below:
 
 - avocado
 - egg
